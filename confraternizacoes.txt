@@ -1,0 +1,7 @@
+Aniversário; Birthday; Compleanno;
+Natal; Christmas; Natale;
+Ano Novo; New Year's Day; Capodanno;
+Carnaval; Carnival; Carnevale;
+Páscoa; Easter; Pasqua;
+Dia dos Namorados; Valentine's Day; San Valentino;
+Dia das Mães; Mother's Day; Festa della Mamma;

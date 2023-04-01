@@ -1,0 +1,20 @@
+Acordar; Wake up; Svegliarsi;
+Levantar-se da cama; Get out of bed; Alzarsi dal letto;
+Escovar os dentes; Brush teeth; Lavarsi i denti;
+Tomar banho; Take a shower; Fare la doccia;
+Vestir-se; Get dressed; Vestirsi;
+Tomar café da manhã; Eat breakfast; Fare colazione;
+Ir ao trabalho/escola; Go to work/school; Andare al lavoro/scuola;
+Trabalhar/Estudar; Work/Study; Lavorare/Studio;
+Almoçar; Have lunch; Pranzare;
+Trabalhar/Estudar; Work/Study; Lavorare/Studio;
+Fazer exercícios; Exercise; Fare esercizio fisico;
+Fazer compras; Go shopping; Fare la spesa;
+Cozinhar o jantar; Cook dinner; Cucinare la cena;
+Jantar; Have dinner; Cenare;
+Ver televisão; Watch TV; Guardare la TV;
+Ler um livro; Read a book; Leggere un libro;
+Navegar na internet; Browse the internet; Navigare in internet;
+Tomar banho; Take a bath; Fare il bagno;
+Dormir; Sleep; Dormire;
+Desligar as luzes; Turn off the lights; Spegnere le luci.
