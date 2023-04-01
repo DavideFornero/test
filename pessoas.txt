@@ -1,3 +1,5 @@
+Homem;Male;Uomo;
+Mulher;Female;Donna;
 Amigos; Friends; Amici;
 Conhecidos; Acquaintances; Conoscenti;
 Familiares; Relatives; Parenti;
