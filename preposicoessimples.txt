@@ -1,4 +1,3 @@
-
 a;to;a;
 com;with;con;
 de (Origem ou proposito);from;da;
