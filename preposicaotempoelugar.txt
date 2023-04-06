@@ -58,7 +58,7 @@ na frente;in front;davanti;
 por;per;per;
 a bordo;aboard;a bordo;
 mais;plus;più;
-contra;anti;anti;
+anti;anti;anti;
 rodeado;amid;in mezzo a;
 sobre;concerning;riguardante;
 através (VIA);via;tramite;
