@@ -1,347 +1,347 @@
-accept - reject
-achieve - fail
-add - subtract
-advance - retreat
-agree - disagree
-allow - forbid
-appear - vanish
-arrive - depart
-ascend - descend
-ask - answer
-attack - defend
-awake - sleep
-begin - end
-believe - doubt
-bend - straighten
-bet - forfeit
-borrow - lend
-break - repair
-bring - take
-build - demolish
-buy - sell
-capture - release
-care - neglect
-cause - prevent
-cease - continue
-challenge - surrender
-change - remain
-charge - discharge
-check - ignore
-choose - reject
-climb - descend
-close - open
-combine - separate
-come - go
-compete - cooperate
-complain - praise
-conceal - reveal
-confirm - deny
-connect - disconnect
-conquer - lose
-construct - destroy
-consume - preserve
-contain - release
-continue - stop
-contribute - withhold
-convince - dissuade
-cook - eat
-correct - incorrect
-create - destroy
-crawl - stand
-cry - laugh
-cut - join
-damage - repair
-dare - hesitate
-darken - lighten
-decrease - increase
-delay - accelerate
-demand - supply
-depart - arrive
-desire - loathe
-detect - overlook
-determine - waver
-die - live
-dig - fill
-diminish - grow
-discourage - encourage
-dislike - like
-dive - surface
-do - undo
-drag - push
-draw - erase
-dream - awake
-dress - undress
-drink - pour
-drive - park
-drop - pick up
-earn - lose
-eat - cook
-embrace - reject
-employ - dismiss
-empty - fill
-encourage - discourage
-enlarge - reduce
-enter - exit
-escape - capture
-evolve - devolve
-exceed - fall short
-exclude - include
-expand - contract
-expect - doubt
-explain - confuse
-explore - abandon
-extend - shorten
-face - avoid
-fail - succeed
-fall - rise
-fasten - loosen
-feed - starve
-fight - surrender
-find - lose
-finish - start
-fix - break
-flee - pursue
-accept - refuse
-appear - disappear
-break - fix
-build - destroy
-challenge - concede
-conquer - surrender
-construct - demolish
-consume - produce
-descend - ascend
-detect - miss
-determine - hesitate
-float - sink
-fly - land
-forget - remember
-forgive - blame
-form - dissolve
-free - captive
-frown - smile
-gain - lose
-gather - scatter
-generate - consume
-get - lose
-give - take
-go - come
-grow - shrink
-happen - cease
-harm - heal
-hate - love
-have - lack
-hear - ignore
-help - hinder
-hide - seek
-hit - miss
-hold - release
-hurt - heal
-ignore - acknowledge
-improve - worsen
-include - exclude
-increase - decrease
-indicate - conceal
-influence - resist
-inform - misinform
-injure - heal
-insert - remove
-insist - resist
-introduce - eliminate
-invite - repel
-join - separate
-jump - land
-justify - refute
-keep - give away
-kick - catch
-kill - revive
-kiss - hug
-knock - repair
-know - doubt
-laugh - cry
-lay - lift
-lead - follow
-lean - straighten
-learn - forget
-leave - arrive
-lend - borrow
-let - prevent
-lie - stand
-lighten - darken
-like - dislike
-listen - ignore
-live - die
-load - unload
-lock - unlock
-lose - win
-love - hate
-lower - raise
-maintain - neglect
-make - destroy
-march - retreat
-melt - freeze
-merge - separate
-mind - disregard
-miss - hit
-mix - separate
-move - stay
-multiply - divide
-murder - rescue
-need - want
-neglect - care
-obey - disobey
-observe - ignore
-obstruct - facilitate
-obtain - relinquish
-offer - refuse
-open - close
-oppose - support
-order - chaos
-overcome - succumb
-overestimate - underestimate
-overtake - yield
-overthrow - establish
-participate - abstain
-pass - fail
-pause - resume
-pay - charge
-permit - prohibit
-persist - give up
-persuade - dissuade
-pick up - put down
-please - displease
-praise - criticize
-pray - curse
-predict - retrodict
-prepare - dismantle
-preserve - destroy
-prevent - cause
-proceed - halt
-produce - consume
-progress - regress
-prohibit - allow
-promote - demote
-protect - attack
-protest - support
-prove - disprove
-provide - withhold
-pull - push
-punish - reward
-pursue - escape
-push - pull
-put - take
-qualify - disqualify
-question - answer
-quit - start
-raise - lower
-reach - withdraw
-read - write
-realize - ignore
-receive - send
-recognize - ignore
-recommend - advise against
-reduce - increase
-refuse - accept
-regret - rejoice
-reinforce - weaken
-reject - accept
-release - detain
-remember - forget
-remind - forget
-remove - insert
-repair - damage
-replace - keep
-report - conceal
-request - decline
-require - exclude
-rescue - abandon
-resist - surrender
-respect - disrespect
-respond - ignore
-rest - work
-restore - damage
-retain - release
-retreat - advance
-reveal - conceal
-reward - punish
-rise - fall
-save - spend
-scatter - gather
-search - find
-secure - endanger
-see - unsee
-seek - avoid
-seize - release
-sell - buy
-send - receive
-separate - join
-serve - be served
-set - unset
-settle - unsettle
-share - keep
-shrink - expand
-show - hide
-shut - open
-simplify - complicate
-sink - float
-sit - stand
-sleep - wake
-smile - frown
-speak - listen
-speed up - slow down
-spend - save
-stand - sit
-start - finish
-stay - leave
-steal - return
-stop - start
-strengthen - weaken
-strive - give up
-study - ignore
-succeed - fail
-suffer - enjoy
-suggest - dissuade
-support - oppose
-surrender - resist
-survive - perish
-swim - sink
-take - give
-teach - learn
-tell - ask
-think - forget
-throw - catch
-tie - untie
-tolerate - reject
-trace - erase
-trade - keep
-translate - misunderstand
-travel - stay
-treat - mistreat
-trust - distrust
-try - give up
-turn on - turn off
-understand - misunderstand
-unite - divide
-unlock - lock
-uphold - demolish
-urge - discourage
-use - waste
-value - disregard
-vanish - appear
-venture - refrain
-verify - refute
-visit - leave
-volunteer - refuse
-wait - hurry
-wake - sleep
-walk - run
-want - have
-warn - reassure
-waste - conserve
-watch - ignore
-wear - remove
-win - lose
-withdraw - advance
-work - rest
-worry - reassure
-write - read
-yield - resist
+aceitar - rejeitar;accept - reject;accettare - rifiutare;
+realizar - falhar;achieve - fail;realizzare - fallire;
+adicionar - subtrair;add - subtract;aggiungere - sottrarre;
+avançar - recuar;advance - retreat;avanzare - ritirarsi;
+concordar - discordar;agree - disagree;concordare - dissentire;
+permitir - proibir;allow - forbid;permettere - vietare;
+aparecer - desaparecer;appear - vanish;apparire - scomparire;
+chegar - partir;arrive - depart;arrivare - partire;
+ascender - descender;ascend - descend;ascendere - discendere;
+perguntar - responder;ask - answer;chiedere - rispondere;
+atacar - defender;attack - defend;attaccare - difendere;
+acordar - dormir;awake - sleep;svegliarsi - dormire;
+começar - terminar;begin - end;cominciare - finire;
+acreditar - duvidar;believe - doubt;credere - dubitare;
+dobrar - endireitar;bend - straighten;piegare - raddrizzare;
+apostar - perder;bet - forfeit;scommettere - perdere;
+emprestar - emprestar;borrow - lend;prendere in prestito - prestare;
+quebrar - consertar;break - repair;rompere - riparare;
+trazer - levar;bring - take;portare - prendere;
+construir - demolir;build - demolish;costruire - demolire;
+comprar - vender;buy - sell;comprare - vendere;
+capturar - libertar;capture - release;catturare - liberare;
+cuidar - negligenciar;care - neglect;prendersi cura - trascurare;
+causar - prevenir;cause - prevent;causare - prevenire;
+cessar - continuar;cease - continue;cessare - continuare;
+desafiar - render-se;challenge - surrender;sfidare - arrendersi;
+mudar - permanecer;change - remain;cambiare - rimanere;
+carregar - descarregar;charge - discharge;caricare - scaricare;
+verificar - ignorar;check - ignore;controllare - ignorare;
+escolher - rejeitar;choose - reject;scegliere - rifiutare;
+escalar - descer;climb - descend;scalare - discendere;
+fechar - abrir;close - open;chiudere - aprire;
+combinar - separar;combine - separate;combinare - separare;
+vir - ir;come - go;venire - andare;
+competir - cooperar;compete - cooperate;competere - cooperare;
+reclamar - elogiar;complain - praise;lamentarsi - lodare;
+esconder - revelar;conceal - reveal;nascondere - rivelare;
+confirmar - negar;confirm - deny;confermare - negare;
+conectar - desconectar;connect - disconnect;collegare - scollegare;
+conquistar - perder;conquer - lose;conquistare - perdere;
+construir - destruir;construct - destroy;costruire - distruggere;
+consumir - preservar;consume - preserve;consumare - preservare;
+conter - liberar;contain - release;contenere - liberare;
+continuar - parar;continue - stop;continuare - fermare;
+contribuir - reter;contribute - withhold;contribuire - trattenere;
+convencer - dissuadir;convince - dissuade;convincere - dissuadere;
+cozinhar - comer;cook - eat;cucinare - mangiare;
+correto - incorreto;correct - incorrect;corretto - sbagliato;
+criar - destruir;create - destroy;creare - distruggere;
+rastejar - ficar de pé;crawl - stand;strisciare - stare in piedi;
+chorar - rir;cry - laugh;piangere - ridere;
+cortar - juntar;cut - join;tagliare - unire;
+danificar - consertar;damage - repair;danneggiare - riparare;
+ousar - hesitar;dare - hesitate;osare - esitare;
+escurecer - clarear;darken - lighten;oscurare - schiarire;
+diminuir - aumentar;decrease - increase;diminuire - aumentare;
+atrasar - acelerar;delay - accelerate;ritardare - accelerare;
+exigir - fornecer;demand - supply;esigere - fornire;
+partir - chegar;depart - arrive;partire - arrivare;
+desejar - detestar;desire - loathe;desiderare - detestare;
+detectar - ignorar;detect - overlook;rilevare - trascurare;
+determinar - hesitar;determine - waver;determinare - esitare;
+morrer - viver;die - live;morire - vivere;
+cavar - preencher;dig - fill;scavare - riempire;
+diminuir - crescer;diminish - grow;diminuire - crescere;
+desencorajar - encorajar;discourage - encourage; scoraggiare - incoraggiare;
+desgostar - gostar;dislike - like;dispiacere - piacere;
+mergulhar - emergir;dive - surface;immergersi - emergere;
+fazer - desfazer;do - undo;fare - disfare;
+arrastar - empurrar;drag - push;trascinare - spingere;
+desenhar - apagar;draw - erase;disegnare - cancellare;
+sonhar - acordar;dream - awake;sognare - svegliarsi;
+vestir - despir;dress - undress;vestire - spogliare;
+beber - derramar;drink - pour;bere - versare;
+dirigir - estacionar;drive - park;guidare - parcheggiare;
+soltar - pegar;drop - pick up;lasciare - raccogliere;
+ganhar - perder;earn - lose;guadagnare - perdere;
+comer - cozinhar;eat - cook;mangiare - cucinare;
+abraçar - rejeitar;embrace - reject;abbracciare - rifiutare;
+empregar - demitir;employ - dismiss;impiegare - licenziare;
+esvaziar - encher;empty - fill;svuotare - riempire;
+encorajar - desencorajar;encourage - discourage;incoraggiare - scoraggiare;
+aumentar - reduzir;enlarge - reduce;ingrandire - ridurre;
+entrar - sair;enter - exit;entrare - uscire;
+escapar - capturar;escape - capture;sfuggire - catturare;
+evoluir - involuir;evolve - devolve;evolvere - regredire;
+exceder - ficar aquém;exceed - fall short;superare - essere inferiore;
+excluir - incluir;exclude - include;escludere - includere;
+expandir - contrair;expand - contract;espandere - contrarre;
+esperar - duvidar;expect - doubt;aspettare - dubitare;
+explicar - confundir;explain - confuse;spiegare - confondere;
+explorar - abandonar;explore - abandon;esplorare - abbandonare;
+esticar - encurtar;extend - shorten;allungare - accorciare;
+enfrentar - evitar;face - avoid;affrontare - evitare;
+falhar - ter sucesso;fail - succeed;fallire - avere successo;
+cair - levantar;fall - rise;cadere - alzarsi;
+apertar - afrouxar;fasten - loosen;stringere - allentare;
+alimentar - morrer de fome;feed - starve;nutrire - morire di fame;
+lutar - render-se;fight - surrender;combattere - arrendersi;
+encontrar - perder;find - lose;trovare - perdere;
+terminar - começar;finish - start;finire - iniziare;
+consertar - quebrar;fix - break;riparare - rompere;
+fugir - perseguir;flee - pursue;fuggire - inseguire;
+aceitar - recusar;accept - refuse;accettare - rifiutare;
+aparecer - desaparecer;appear - disappear;apparire - scomparire;
+quebrar - consertar;break - fix;rompere - riparare;
+construir - destruir;build - destroy;costruire - distruggere;
+desafiar - conceder;challenge - concede;sfidare - concedere;
+conquistar - render-se;conquer - surrender;conquistare - arrendersi;
+construir - demolir;construct - demolish;costruire - demolire;
+consumir - produzir;consume - produce;consumare - produrre;
+descer - subir;descend - ascend;scendere - ascendere;
+detectar - perder;detect - miss;rilevare - mancare;
+determinar - hesitar;determine - hesitate;determinare - esitare;
+flutuar - afundar;float - sink;galleggiare - affondare;
+voar - pousar;fly - land;volare - atterrare;
+esquecer - lembrar;forget - remember;dimenticare - ricordare;
+perdoar - culpar;forgive - blame;perdonare - incolpare;
+formar - dissolver;form - dissolve;formare - sciogliere;
+libertar - capturar;free - captive;liberare - catturare;
+franzir - sorrir;frown - smile;accigliarsi - sorridere;
+ganhar - perder;gain - lose;guadagnare - perdere;
+reunir - dispersar;gather - scatter;radunare - disperdere;
+gerar - consumir;generate - consume;generare - consumare;
+obter - perder;get - lose;ottenere - perdere;
+dar - receber;give - take;dare - prendere;
+ir - vir;go - come;andare - venire;
+crescer - encolher;grow - shrink;crescere - restringersi;
+acontecer - cessar;happen - cease;accadere - cessare;
+prejudicar - curar;harm - heal;nuocere - guarire;
+odiar - amar;hate - love;odiare - amare;
+ter - faltar;have - lack;avere - mancare;
+ouvir - ignorar;hear - ignore;ascoltare - ignorare;
+ajudar - atrapalhar;help - hinder;aiutare - ostacolare;
+esconder - procurar;hide - seek;nascondere - cercare;
+acertar - errar;hit - miss;colpire - mancare;
+segurar - soltar;hold - release;tenere - rilasciare;
+machucar - curar;hurt - heal;ferire - guarire;
+ignorar - reconhecer;ignore - acknowledge;ignorare - riconoscere;
+melhorar - piorar;improve - worsen;migliorare - peggiorare;
+incluir - excluir;include - exclude;includere - escludere;
+aumentar - diminuir;increase - decrease;aumentare - diminuire;
+indicar - ocultar;indicate - conceal;indicare - nascondere;
+influenciar - resistir;influence - resist;influenzare - resistere;
+informar - desinformar;inform - misinform;informare - disinformatore;
+ferir - curar;injure - heal;ferire - guarire;
+inserir - remover;insert - remove;inserire - rimuovere;
+insistir - resistir;insist - resist;insistere - resistere;
+apresentar - eliminar;introduce - eliminate;introdurre - eliminare;
+convidar - repelir;invite - repel;invitare - respingere;
+juntar - separar;join - separate;unire - separare;
+pular - aterrissar;jump - land;saltare - atterrare;
+justificar - refutar;justify - refute;giustificare - confutare;
+manter - dar;keep - give away;mantenere - dare via;
+chutar - agarrar;kick - catch;calciare - afferrare;
+matar - reviver;kill - revive;uccidere - far rivivere;
+beijar - abraçar;kiss - hug;baciare - abbracciare;
+bater - consertar;knock - repair;colpire - riparare;
+saber - duvidar;know - doubt;sapere - dubitare;
+rir - chorar;laugh - cry;ridere - piangere;
+colocar - levantar;lay - lift;posare - sollevare;
+liderar - seguir;lead - follow;condurre - seguire;
+inclinar - endireitar;lean - straighten;pendere - raddrizzare;
+aprender - esquecer;learn - forget;imparare - dimenticare;
+sair - chegar;leave - arrive;partire - arrivare;
+emprestar - pegar emprestado;lend - borrow;prestare - prendere in prestito;
+permitir - impedir;let - prevent;permettere - impedire;
+deitar - ficar de pé;lie - stand;sdraiarsi - stare in piedi;
+clarear - escurecer;lighten - darken;schiarire - scurire;
+gostar - não gostar;like - dislike;piacere - dispiacere;
+escutar - ignorar;listen - ignore;ascoltare - ignorare;
+viver - morrer;live - die;vivere - morire;
+carregar - descarregar;load - unload;caricare - scaricare;
+trancar - destrancar;lock - unlock;bloccare - sbloccare;
+perder - ganhar;lose - win;perdere - vincere;
+amar - odiar;love - hate;amare - odiare;
+abaixar - levantar;lower - raise;abbassare - alzare;
+manter - negligenciar;maintain - neglect;mantenere - trascurare;
+fazer - destruir;make - destroy;fare - distruggere;
+marchar - recuar;march - retreat;marciare - ritirarsi;
+derreter - congelar;melt - freeze;sciogliere - congelare;
+fundir - separar;merge - separate;fondere - separare;
+importar-se - desconsiderar;mind - disregard;importare - trascurare;
+errar - acertar;miss - hit;mancare - colpire;
+misturar - separar;mix - separate;mescolare - separare;
+mover - ficar parado;move - stay;muovere - stare fermo;
+multiplicar - dividir;multiply - divide;moltiplicare - dividere;
+assassinar - resgatar;murder - rescue;assassinare - salvare;
+necessitar - desejar;need - want;aver bisogno - desiderare;
+negligenciar - cuidar;neglect - care;trascurare - prendersi cura;
+obedecer - desobedecer;obey - disobey;obbedire - disobbedire;
+observar - ignorar;observe - ignore;osservare - ignorare;
+obstruir - facilitar;obstruct - facilitate;ostruire - facilitare;
+obter - renunciar;obtain - relinquish;ottenere - rinunciare;
+oferecer - recusar;offer - refuse;offrire - rifiutare;
+abrir - fechar;open - close;aprire - chiudere;
+opor - apoiar;oppose - support;opporsi - sostenere;
+ordem - caos;order - chaos;ordine - caos;
+superar - sucumbir;overcome - succumb;superare - soccombere;
+superestimar - subestimar;overestimate - underestimate;sovrastimare - sottovalutare;
+ultrapassar - ceder;overtake - yield;sorpassare - cedere;
+derrubar - estabelecer;overthrow - establish;rovesciare - stabilire;
+participar - abster-se;participate - abstain;partecipare - astenersi;
+passar - reprovar;pass - fail;superare - fallire;
+pausar - retomar;pause - resume;mettere in pausa - riprendere;
+pagar - cobrar;pay - charge;pagare - addebitare;
+permitir - proibir;permit - prohibit;permettere - proibire;
+persistir - desistir;persist - give up;persistere - rinunciare;
+persuadir - dissuadir;persuade - dissuade;persuadere - dissuadere;
+pegar - largar;pick up - put down;prendere - mettere giù;
+agradar - desagradar;please - displease;piacere - dispiacere;
+elogiar - criticar;praise - criticize;lodare - criticare;
+rezar - amaldiçoar;pray - curse;pregare - maledire;
+prever - retrodizer;predict - retrodict;prevedere - retrodire;
+preparar - desmontar;prepare - dismantle;preparare - smontare;
+preservar - destruir;preserve - destroy;conservare - distruggere;
+prevenir - causar;prevent - cause;prevenire - causare;
+prosseguir - parar;proceed - halt;procedere - fermare;
+produzir - consumir;produce - consume;produrre - consumare;
+progredir - regredir;progress - regress;progredire - regredire;
+proibir - permitir;prohibit - allow;proibire - permettere;
+promover - rebaixar;promote - demote;promuovere - retrocedere;
+proteger - atacar;protect - attack;proteggere - attaccare;
+protestar - apoiar;protest - support;protestare - sostenere;
+provar - refutar;prove - disprove;provare - confutare;
+fornecer - reter;provide - withhold;fornire - trattenere;
+puxar - empurrar;pull - push;tirare - spingere;
+punir - recompensar;punish - reward;punire - ricompensare;
+perseguir - escapar;pursue - escape;inseguire - sfuggire;
+empurrar - puxar;push - pull;spingere - tirare;
+colocar - tirar;put - take;mettere - prendere;
+qualificar - desqualificar;qualify - disqualify;qualificare - squalificare;
+questionar - responder;question - answer;chiedere - rispondere;
+desistir - começar;quit - start;smettere - iniziare;
+elevar - abaixar;raise - lower;innalzare - abbassare;
+alcançar - recuar;reach - withdraw;raggiungere - ritirarsi;
+ler - escrever;read - write;leggere - scrivere;
+perceber - ignorar;realize - ignore;rendersi conto - ignorare;
+receber - enviar;receive - send;ricevere - inviare;
+reconhecer - ignorar;recognize - ignore;riconoscere - ignorare;
+recomendar - desaconselhar;recommend - advise against;raccomandare - sconsigliare;
+reduzir - aumentar;reduce - increase;ridurre - aumentare;
+recusar - aceitar;refuse - accept;rifiutare - accettare;
+arrepender-se - alegrar-se;regret - rejoice;rammaricarsi - rallegrarsi;
+reforçar - enfraquecer;reinforce - weaken;rinforzare - indebolire;
+rejeitar - aceitar;reject - accept;rifiutare - accettare;
+libertar - deter;release - detain;rilasciare - detenere;
+lembrar - esquecer;remember - forget;ricordare - dimenticare;
+lembrar - esquecer;remind - forget;ricordare - dimenticare;
+remover - inserir;remove - insert;rimuovere - inserire;
+consertar - danificar;repair - damage;riparare - danneggiare;
+substituir - manter;replace - keep;sostituire - mantenere;
+reportar - ocultar;report - conceal;segnalare - nascondere;
+solicitar - recusar;request - decline;richiedere - rifiutare;
+exigir - excluir;require - exclude;richiedere - escludere;
+resgatar - abandonar;rescue - abandon;salvare - abbandonare;
+resistir - render-se;resist - surrender;resistere - arrendersi;
+respeitar - desrespeitar;respect - disrespect;rispettare - mancare di rispetto;
+responder - ignorar;respond - ignore;rispondere - ignorare;
+descansar - trabalhar;rest - work;riposare - lavorare;
+restaurar - danificar;restore - damage;ripristinare - danneggiare;
+reter - liberar;retain - release;trattenere - liberare;
+recuar - avançar;retreat - advance;ritirarsi - avanzare;
+revelar - ocultar;reveal - conceal;rivelare - nascondere;
+recompensar - punir;reward - punish;ricompensare - punire;
+levantar - abaixar;rise - fall;alzarsi - cadere;
+economizar - gastar;save - spend;risparmiare - spendere;
+dispersar - reunir;scatter - gather;disperdere - raccogliere;
+procurar - encontrar;search - find;ricercare - trovare;
+proteger - colocar em perigo;secure - endanger;assicurare - mettere in pericolo;
+ver - não ver;see - unsee;vedere - non vedere;
+buscar - evitar;seek - avoid;cercare - evitare;
+agarrar - soltar;seize - release;afferrare - rilasciare;
+vender - comprar;sell - buy;vendere - comprare;
+enviar - receber;send - receive;inviare - ricevere;
+separar - juntar;separate - join;separare - unire;
+servir - ser servido;serve - be served;servire - essere servito;
+configurar - desconfigurar;set - unset;impostare - disimpostare;
+estabelecer - desestabilizar;settle - unsettle;stabilirsi - destabilizzare;
+compartilhar - guardar;share - keep;condividere - conservare;
+encolher - expandir;shrink - expand;restringersi - espandersi;
+mostrar - esconder;show - hide;mostrare - nascondere;
+fechar - abrir;shut - open;chiudere - aprire;
+simplificar - complicar;simplify - complicate;semplificare - complicare;
+afundar - flutuar;sink - float;affondare - galleggiare;
+sentar - levantar;sit - stand;sedersi - alzarsi;
+dormir - acordar;sleep - wake;dormire - svegliarsi;
+sorrir - franzir;smile - frown;sorridere - corrugare la fronte;
+falar - ouvir;speak - listen;parlare - ascoltare;
+acelerar - desacelerar;speed up - slow down;accelerare - rallentare;
+gastar - economizar;spend - save;spendere - risparmiare;
+ficar de pé - sentar;stand - sit;stare in piedi - sedersi;
+começar - terminar;start - finish;iniziare - terminare;
+ficar - sair;stay - leave;restare - partire;
+roubar - devolver;steal - return;rubare - restituire;
+parar - começar;stop - start;fermare - iniziare;
+fortalecer - enfraquecer;strengthen - weaken;rafforzare - indebolire;
+lutar - desistir;strive - give up;lottare - rinunciare;
+estudar - ignorar;study - ignore;studiare - ignorare;
+ter sucesso - fracassar;succeed - fail;avere successo - fallire;
+sofrer - desfrutar;suffer - enjoy;soffrire - godere;
+sugerir - dissuadir;suggest - dissuade;suggerire - dissuadere;
+apoiar - se opor;support - oppose;sostenere - opporsi;
+render-se - resistir;surrender - resist;arrendersi - resistere;
+sobreviver - perecer;survive - perish;sopravvivere - perire;
+nadar - afundar;swim - sink;nuotare - affondare;
+pegar - dar;take - give;prendere - dare;
+ensinar - aprender;teach - learn;insegnare - imparare;
+dizer - perguntar;tell - ask;dire - chiedere;
+pensar - esquecer;think - forget;pensare - dimenticare;
+jogar - pegar;throw - catch;lanciare - prendere;
+amarrar - desamarrar;tie - untie;legare - sciogliere;
+tolerar - rejeitar;tolerate - reject;tollerare - rifiutare;
+traçar - apagar;trace - erase;tracciare - cancellare;
+trocar - guardar;trade - keep;scambiare - conservare;
+traduzir - entender mal;translate - misunderstand;tradurre - fraintendere;
+viajar - ficar;travel - stay;viaggiare - rimanere;
+tratar - maltratar;treat - mistreat;trattare - maltrattare;
+confiar - desconfiar;trust - distrust;fidarsi - diffidare;
+tentar - desistir;try - give up;provare - rinunciare;
+ligar - desligar;turn on - turn off;accendere - spegnere;
+entender - interpretar mal;understand - misunderstand;comprendere - fraintendere;
+unir - dividir;unite - divide;unire - dividere;
+destrancar - trancar;unlock - lock;sbloccare - bloccare;
+sustentar - demolir;uphold - demolish;sostenere - demolire;
+incentivar - desencorajar;urge - discourage;incoraggiare - scoraggiare;
+usar - desperdiçar;use - waste;usare - sprecare;
+valorizar - desconsiderar;value - disregard;valutare - trascurare;
+desaparecer - aparecer;vanish - appear;scomparire - apparire;
+arriscar - abster-se;venture - refrain;avventurarsi - astenersi;
+verificar - refutar;verify - refute;verificare - confutare;
+visitar - sair;visit - leave;visitare - uscire;
+voluntariar-se - recusar;volunteer - refuse;fare volontariato - rifiutare;
+esperar - apressar-se;wait - hurry;aspettare - sbrigarsi;
+acordar - dormir;wake - sleep;svegliarsi - dormire;
+caminhar - correr;walk - run;camminare - correre;
+querer - ter;want - have;volere - avere;
+avisar - tranquilizar;warn - reassure;avvertire - tranquillizzare;
+desperdiçar - conservar;waste - conserve;sprecare - conservare;
+observar - ignorar;watch - ignore;guardare - ignorare;
+vestir - remover;wear - remove;indossare - rimuovere;
+ganhar - perder;win - lose;vincere - perdere;
+retirar - avançar;withdraw - advance;ritirarsi - avanzare;
+trabalhar - descansar;work - rest;lavorare - riposare;
+preocupar-se - tranquilizar;worry - reassure;preoccuparsi - tranquillizzare;
+escrever - ler;write - read;scrivere - leggere;
+ceder - resistir;yield - resist;cedere - resistere;
