@@ -40,7 +40,7 @@ Arrogância; Arrogance; Arroganza;
 Paciência; Patience; Pazienza;
 Impaciência; Impatience; Impazienza;
 Respeito; Respect; Rispetto;
-Desrespeito; Disrespect; Irreverenza;
+Desrespeito; Disrespect; Disrispetto;
 Gratidão; Gratitude; Gratitudine;
 Ingratidão; Ingratitude; Ingratitudine;
 Empatia; Empathy; Empatia;
