@@ -11,7 +11,7 @@ Caixa; Box; Scatola;
 Saco; Bag; Borsa;
 Mala; Suitcase; Valigia;
 Sacola; Tote bag; Borsa a tracolla;
-Baldinho; Bucket; Secchio;
+Balde; Bucket; Secchio;
 Lata; Can; Lattina;
 Panela; Pan; Padella;
 Frigideira; Frying pan; Padella per friggere;
