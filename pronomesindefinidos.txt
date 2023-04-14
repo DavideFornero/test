@@ -1,5 +1,5 @@
 todos;all;tutti;
-outro;another;un altro;
+outro (qualquer um);another;un altro;
 qualquer;any;qualsiasi;
 qualquer pessoa;anybody;chiunque;
 qualquer um;anyone;chiunque;
