@@ -47,4 +47,4 @@ Empatia; Empathy; Empatia;
 Egoísmo; Selfishness; Egoismo;
 Altruísmo; Altruism; Altruismo;
 Solidariedade; Solidarity; Solidarietà;
-Individualismo; Individualism; Individualismo.
+Individualismo; Individualism; Individualismo;
