@@ -79,8 +79,6 @@ Polvo ; Octopus ; Polpo ;
 Faisão ; Pheasant ; Fagiano ;
 Galo ; Rooster ; Gallo ;
 Coruja ; owl ; Gufo ;
-Perdiz ; Partridge ; Pernice ;
-Pardal ; Sparrow ; Passero ;
 Pica-pau ; Woodpecker ; Picchio ;
 Cisne ; Swan ; Cigno ;
 Pelicano ; Pelican ; Pellicano ;
