@@ -77,7 +77,7 @@ Lagosta ; Lobster ; Aragosta ;
 Camarão ; Shrimp ; Gamberetto ;
 Lula ; Squid ; Calamaro ;
 Polvo ; Octopus ; Polpo ;
-Águia careca ; Bald eagle ; Aquila calva ;
+Águia careca ; Bald eagle ; Aquila testabianca ;
 Faisão ; Pheasant ; Fagiano ;
 Galo ; Rooster ; Gallo ;
 Pato-real ; Mallard duck ; Germano reale ;
