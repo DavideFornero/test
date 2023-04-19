@@ -25,4 +25,4 @@ Luvas; Gloves; Guanti;
 Boné; Cap; Cappellino;
 Chapéu; Hat; Cappello;
 Meia; Sock; Calza;
-Sapato; Shoe; Scarpa.
+Sapato; Shoe; Scarpa;
