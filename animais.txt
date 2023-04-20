@@ -35,7 +35,7 @@ Coruja ; Owl ; Gufo ;
 Gaivota ; Seagull ; Gabbiano ;
 Pato ; Duck ; Anatra ;
 Galinha ; Chicken ; Gallina ;
-Pomba ; Pigeon ; Piccione ;
+Pombo ; Pigeon ; Piccione ;
 Pavão ; Peacock ; Pavone ;
 Corvo ; Crow ; Corvo ;
 Abutre ; Buzzard ; Poiana ;
