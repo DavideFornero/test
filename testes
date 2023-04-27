@@ -69,22 +69,75 @@ class RegistroApp:
         self.frame_deducoes.pack(fill=tk.X, padx=10, pady=5)
 
         self.lb_deducoes = tk.Label(self.frame_deducoes, text="Deduções: Valor")
-        self.lb_deducoes.pack(side=tk.LEFT)
+        self self.lb_deducoes.pack(side=tk.LEFT)
 
-        self.var_deducoes = tk.DoubleVar()
-        self.entry_deducoes = tk.Entry(self.frame_deducoes, textvariable=self.var_deducoes)
+        self.entry_deducoes = tk.Entry(self.frame_deducoes)
         self.entry_deducoes.pack(side=tk.RIGHT, expand=True, fill=tk.X)
 
-        self.frame_botoes = tk.Frame(self.root)
+        self.frame_botoes = tk.Frame(self.frame_cadastro)
         self.frame_botoes.pack(fill=tk.X, padx=10, pady=5)
 
-        self.btn_salvar = tk.Button(self.frame_botoes, text="Salvar", command=self.salvar_cadastro)
-        self.btn_salvar.pack(side=tk.LEFT, padx=5)
+        self.bt_cadastrar = tk.Button(self.frame_botoes, text="Cadastrar", command=self.cadastrar_usuario)
+        self.bt_cadastrar.pack(side=tk.LEFT)
 
-        self.btn_contabilizar = tk.Button(self.frame_botoes, text="Contabilização", command=self.contabilizar)
-        self.btn_contabilizar.pack(side=tk.RIGHT, padx=5)
-
-        self.btn_excluir = tk.Button(self.frame_botoes, text="Excluir", command=self.excluir_cadastro)
-        self.btn_excluir.pack(side=tk.LEFT, padx=5)
+        self.bt_contabilizar = tk.Button(self.frame_botoes, text="Contabilizar", command=self.contabilizar)
+        self.bt_contabilizar.pack(side=tk.RIGHT)
 
         self.carregar_usuarios()
+
+    def carregar_usuarios(self):
+        if os.path.exists("usuarios.json"):
+            with open("usuarios.json", "r") as file:
+                self.usuarios = json.load(file)
+            self.combo_usuarios["values"] = list(self.usuarios.keys())
+        else:
+            self.usuarios = {}
+
+    def cadastrar_usuario(self):
+        nome = self.entry_nome.get().strip()
+        if not nome:
+            msgbox.showerror("Erro", "Por favor, insira um nome.")
+            return
+
+        if nome in self.usuarios:
+            msgbox.showerror("Erro", "Nome já cadastrado.")
+            return
+
+        self.usuarios[nome] = {
+            "bolsas": {bolsa: {operacao: var.get() for operacao, var in self.variaveis_bolsas[bolsa].items()} for bolsa in self.bolsas},
+            "deducoes": float(self.entry_deducoes.get() or "0"),
+            "acoes": []
+        }
+
+        with open("usuarios.json", "w") as file:
+            json.dump(self.usuarios, file)
+
+        self.combo_usuarios["values"] = list(self.usuarios.keys())
+        msgbox.showinfo("Sucesso", "Usuário cadastrado com sucesso.")
+
+    def selecionar_usuario(self, event=None):
+        nome = self.cb_usuarios.get()
+        usuario = self.usuarios[nome]
+
+        self.entry_nome.delete(0, tk.END)
+        self.entry_nome.insert(tk.END, nome)
+
+        for bolsa in self.bolsas:
+            for operacao, variavel in self.variaveis_bolsas[bolsa].items():
+                variavel.set(usuario["bolsas"][bolsa][operacao])
+
+        self.entry_deducoes.delete(0, tk.END)
+        self.entry_deducoes.insert(tk.END, str(usuario["deducoes"]))
+
+    def contabilizar(self):
+        nome = self.cb_usuarios.get()
+        if not nome:
+            msgbox.showerror("Erro", "Por favor, selecione um usuário.")
+            return
+
+        usuario = self.usuarios[nome]
+
+        # Adicione aqui a lógica para adicionar ações, calcular o lucro, impostos e salvar no perfil do usuário.
+
+        msgbox.showinfo("Contabilização", f"Olá {nome}!\nAgora é {datetime.now().strftime('%H:%M:%S')}")
+
